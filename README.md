@@ -60,4 +60,4 @@
 
 
 ![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=FF5B22)
-<img align="right" alt="Coding" width="400" src="https://github.com/MahirMsiam/MahirMsiam/blob/main/pixel.gif?raw=true">
+<img align="left" alt="Coding" width="400" src="https://github.com/MahirMsiam/MahirMsiam/blob/main/pixel.gif?raw=true">
