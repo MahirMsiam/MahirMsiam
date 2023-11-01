@@ -37,8 +37,17 @@
 </details>
   <details close>
   
+<!--  <summary>PROJECTS:closed_book:</summary>
+
+| Project | Description |
+| --- | --- |
+| <h2 align="center"><a href="https://github.com/nehlinshanila/Digital-Hearing-Aid--CSE299">Digital Hearing Aid</a></h2> | <p style="background-color: #f1f1f1;">App for people with hearing aid disability and autism that takes input sound and then processes, suppresses extreme loud sudden sounds, and finally amplifies the output according to the user’s need.</p> |
+| <h2 align="center"><a href="https://github.com/nehlinshanila/Synchronization-Software--CSE327">Synchronization Software</a></h2> | <p style="background-color: #f1f1f1;">A user-friendly software application that allows users to synchronize and share any kind of data across multiple devices and operating systems for increased productivity and efficiency.</p> |
+| <h2 align="center"><a href="https://github.com/nehlinshanila/Activity-Selection-Problem--CSE373">Activity Selection Problem</a></h2> | <p style="background-color: #f1f1f1;">Implementation of the Activity Selection Problem using the Merge Sort algorithm with greedy approach while selecting a maximum number of non-overlapping activities from a given random array generated activities with their own start time and an end time.</p> |
+| <h2 align="center"><a href="https://github.com/nehlinshanila/Blood-Donation-Management-System--CSE311">Blood Donation Management System</a></h2> | <p style="background-color: #f1f1f1;">Web-based system that helps the users with the information of different blood types and how they can be utilized in the blood bank to help several clients that are in need.</p> |
+
 </details>
-  <details close>
+  <details close>-->
   <summary>FIND ME:computer:</summary>
  
 <a href="https://www.linkedin.com/in/mahir-mahmud-siam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahir-mahmud-siam/" height="23em" /></a>
