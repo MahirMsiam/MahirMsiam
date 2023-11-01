@@ -50,4 +50,4 @@
 </details>
 
 
-![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=b995b1)
+![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=FF5B22)
