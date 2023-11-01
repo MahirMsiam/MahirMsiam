@@ -1,3 +1,4 @@
+<img align="left" alt="coding" height= "300" width="580" src="./Animation.gif">
 # 💫 About Me:
 🔭 I’m currently working on  Developing mobile apps<br>👯 I’m looking to collaborate on open-source contributions, and innovations in the tech world<br>🤝 I’m looking for help with mentorship opportunities to accelerate my career growth.<br>🌱 I’m currently learning JAVA<br>⚡ Fun fact  I'm not just a tech enthusiast; I'm also a passionate Traveller and love exploring the great outdoors in my free time.
 
