@@ -62,4 +62,4 @@
 ![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=FF5B22)
 <img align="left" alt="Coding" width="400" src="https://github.com/MahirMsiam/MahirMsiam/blob/main/pixel.gif?raw=true">
 
-![snake gif](https://github.com/YOUR_USERNAME/MahirMsiam/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MahirMsiam/MahirMsiam/blob/output/github-contribution-grid-snake.gif)
