@@ -3,7 +3,7 @@
 <div height="300" width="50"></div>
 
  <details close >
- <summary>SKILLS:mortar_board:</summary>
+ <summary>SKILLS📙</summary>
 <table>
  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahirMsiam&layout=donut-vertical&langs_count=12&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="MahirMsiam" height= "100%" width="100%"/>
   
@@ -48,7 +48,7 @@
 
 </details>
   <details close>-->
-  <summary>FIND ME:computer:</summary>
+  <summary>FIND ME💻</summary>
  
 <a href="https://www.linkedin.com/in/mahir-mahmud-siam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahir-mahmud-siam/" height="23em" /></a>
 <a href="https://www.instagram.com/bhallagtase_na/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhallagtase_na/" height="23em" /></a>
