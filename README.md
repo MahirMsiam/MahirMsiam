@@ -37,7 +37,7 @@
 </details>
   <details close>
   
- <summary>PROJECTS:closed_book:</summary>
+ <summary>PROJECTS📙</summary>
 
 | Project | Description |
 | --- | --- |
