@@ -37,7 +37,7 @@
 </details>
   <details close>
   
- <summary>PROJECTS📙</summary>
+ <summary>PROJECTS📦</summary>
 
 | Project | Description |
 | --- | --- |
