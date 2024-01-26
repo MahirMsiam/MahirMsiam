@@ -30,7 +30,7 @@
     
     
 
-<p><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahirmsiam&theme=tokyonight_duo&hide_border=true" alt="MahirMsiam" width="250px"/><img float="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahirMsiam&show_icons=true&theme=tokyonight_duo&title_color=e69138 &text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="MahirMsiam" width="250px"/></p>
+<p><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahirmsiam&theme=gruvbox-duo&hide_border=true" alt="MahirMsiam" width="250px"/><img float="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahirMsiam&show_icons=true&theme=tokyonight_duo&title_color=e69138&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="MahirMsiam" width="250px"/></p>
 
 </td>
 </table>
