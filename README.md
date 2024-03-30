@@ -42,7 +42,7 @@
 | Project | Description |
 | --- | --- |
 | <h2 align="center"><a href="https://github.com/MahirMsiam/ROOMMATE">ROOMMATE</a></h2> | <p style="background-color: #f1f1f1;">A java GUI project for those who are looking for rental properties.</p> |
-| <h2 align="center"><a href="https://github.com/MahirMsiam/ROOMMATE">ROOMMATE</a></h2> | <p style="background-color: #f1f1f1;">A java GUI project for those who are looking for rental properties.</p> |
+| <h2 align="center"><a href="https://github.com/MahirMsiam/PythonProjects/tree/main/practice">MINIpy</a></h2> | <p style="background-color: #f1f1f1;">mini projects with python cvzone</p> |
 <!-- 
 | <h2 align="center"><a href="https://github.com/nehlinshanila/Activity-Selection-Problem--CSE373">Activity Selection Problem</a></h2> | <p style="background-color: #f1f1f1;">Implementation of the Activity Selection Problem using the Merge Sort algorithm with greedy approach while selecting a maximum number of non-overlapping activities from a given random array generated activities with their own start time and an end time.</p> |
 | <h2 align="center"><a href="https://github.com/nehlinshanila/Blood-Donation-Management-System--CSE311">Blood Donation Management System</a></h2> | <p style="background-color: #f1f1f1;">Web-based system that helps the users with the information of different blood types and how they can be utilized in the blood bank to help several clients that are in need.</p> |-->
