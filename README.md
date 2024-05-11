@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/HTML5-151824?style=flat-square&logo=html5">
     <img  src="https://img.shields.io/badge/CSS3-151824?style=flat-square&logo=css3&logoColor=EF629F">
     <img  src="https://img.shields.io/badge/Bootstrap-151824?style=flat-square&logo=bootstrap">
+    <img  src="https://img.shields.io/badge/Flutter-151824?style=flat-square&logo=Flutter">
     
    
    Softwares :
