@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/C++-151824.svg?style=flat-square&logo=c%2B%2B&logoColor=302b63">
     <img  src="https://img.shields.io/badge/Java-151824.svg?style=flat-square&logo=java">
     <img  src="https://img.shields.io/badge/Dart-151824?style=flat-square&logo=Dart">
+    <img  src="https://img.shields.io/badge/Python-151824?style=flat-square&logo=Python">
     
    
   
