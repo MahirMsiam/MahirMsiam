@@ -62,6 +62,9 @@
 <a href="https://codeforces.com/profile/kakashitake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kakashitake" height="23em" /></a> 
 
 </details>
-![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=FF5B22)
+
+
+![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=FF8225)
+
 <img align="left" alt="Coding" width="400" src="https://github.com/MahirMsiam/MahirMsiam/blob/main/pixel.gif?raw=true">
 
