@@ -72,7 +72,6 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,git,github,gitlab,tailwind,vscode,androidstudio,eclipse,notion,c,cpp,clion,java,gradle,linux,kali,bash,
-     dart,flutter,firebase,python,pycharm,mysql,sqlite,arduino,azure,opencv,figma,blender,ai,ps"
-     />
+     dart,flutter,firebase,python,pycharm,mysql,sqlite,arduino,azure,opencv,figma,blender,ai,ps"/>
 
 </div>
