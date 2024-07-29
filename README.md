@@ -65,18 +65,3 @@
 ![](https://komarev.com/ghpvc/?username=MahirMsiam&style=for-the-badge&color=FF5B22)
 <img align="left" alt="Coding" width="400" src="https://github.com/MahirMsiam/MahirMsiam/blob/main/pixel.gif?raw=true">
 
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,git,github,gitlab,tailwind,vscode,androidstudio,eclipse,notion,c,cpp,java,gradle,linux,kali,bash,dart,flutter,firebase,python,pycharm,mysql,arduino,azure,opencv,figma,blender,ai,ps" />
-
-</div>
