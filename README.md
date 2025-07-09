@@ -48,6 +48,9 @@
 | <h2 align="center"><a href="https://github.com/MahirMsiam/PythonProjects/tree/main/practice">MINIpy</a></h2> | <p style="background-color: #f1f1f1;">mini projects with python cvzone</p> |
 | <h2 align="center"><a href="https://github.com/MahirMsiam/Webdev">Website</a></h2> | <p style="background-color: #f1f1f1;">E-comerce website using html,css and bootstrap</p> |
 | <h2 align="center"><a href="https://github.com/MahirMsiam/niyejan">NiyeJan</a></h2> | <p style="background-color: #f1f1f1;">A ride sharing app using flutter,Dart and using firebase.It's a clone of uber.It was made to enhance skills on flutter and dart concepts</p> |
+| <h2 align="center"><a href="https://github.com/MahirMsiam/MediMate">MediMate</a></h2> | <p style="background-color: #f1f1f1;">An innovative and comprehensive health technology solution designed to address the growing challenges of medication management and remote patient monitoring</p> |
+| <h2 align="center"><a href="https://github.com/MahirMsiam/Amar-Khata">Amar Khata</a></h2> | <p style="background-color: #f1f1f1;"> A modern, mobile-friendly Progressive Web App (PWA) for personal and vehicle-based expense and income tracking</p> |
+
 
 <!-- 
 | <h2 align="center"><a href="https://github.com/nehlinshanila/Activity-Selection-Problem--CSE373">Activity Selection Problem</a></h2> | <p style="background-color: #f1f1f1;">Implementation of the Activity Selection Problem using the Merge Sort algorithm with greedy approach while selecting a maximum number of non-overlapping activities from a given random array generated activities with their own start time and an end time.</p> |
