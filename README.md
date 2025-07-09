@@ -9,12 +9,12 @@
   
 <td>
 
-   Languages :
-    <img  src="https://img.shields.io/badge/C-151824.svg?style=flat-square&logo=c">
+   Backend Development :
     <img src="https://img.shields.io/badge/C++-151824.svg?style=flat-square&logo=c%2B%2B&logoColor=302b63">
     <img  src="https://img.shields.io/badge/Java-151824.svg?style=flat-square&logo=java">
     <img  src="https://img.shields.io/badge/Dart-151824?style=flat-square&logo=Dart">
     <img  src="https://img.shields.io/badge/Python-151824?style=flat-square&logo=Python">
+    <img  src="https://img.shields.io/badge/JavaScript-151824?style=flat-square&logo=javascript">
    
     
    
@@ -24,6 +24,15 @@
     <img  src="https://img.shields.io/badge/CSS3-151824?style=flat-square&logo=css3&logoColor=EF629F">
     <img  src="https://img.shields.io/badge/Bootstrap-151824?style=flat-square&logo=bootstrap">
     <img  src="https://img.shields.io/badge/Flutter-151824?style=flat-square&logo=Flutter">
+    <img  src="https://img.shields.io/badge/Markdown-151824?style=flat-square&logo=markdown&logoColor=44A08D">
+
+
+   Framework & Database :
+    <img src="https://img.shields.io/badge/Django-151824.svg?style=flat-square&logo=django&logoColor=614385">
+    <img  src="https://img.shields.io/badge/React.js-151824?style=flat-square&logo=react">
+    <img src="https://img.shields.io/badge/React.native-151824?style=flat-square&logo=react">
+    <img src="https://img.shields.io/badge/MySQL-151824?style=flat-square&logo=mysql">
+    <img src="https://img.shields.io/badge/SQLite-151824?style=flat-square&logo=sqlite&logoColor=77A1D3">
     
    
    Softwares :
@@ -53,9 +62,6 @@
 | <h2 align="center"><a href="https://github.com/MahirMsiam/Amar-Khata">Amar Khata</a></h2> | <p style="background-color: #f1f1f1;"> A modern, mobile-friendly Progressive Web App (PWA) for personal and vehicle-based expense and income tracking</p> |
 
 
-<!-- 
-| <h2 align="center"><a href="https://github.com/nehlinshanila/Activity-Selection-Problem--CSE373">Activity Selection Problem</a></h2> | <p style="background-color: #f1f1f1;">Implementation of the Activity Selection Problem using the Merge Sort algorithm with greedy approach while selecting a maximum number of non-overlapping activities from a given random array generated activities with their own start time and an end time.</p> |
-| <h2 align="center"><a href="https://github.com/nehlinshanila/Blood-Donation-Management-System--CSE311">Blood Donation Management System</a></h2> | <p style="background-color: #f1f1f1;">Web-based system that helps the users with the information of different blood types and how they can be utilized in the blood bank to help several clients that are in need.</p> |-->
 
 </details>
   <details close>
