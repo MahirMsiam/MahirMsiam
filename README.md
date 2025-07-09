@@ -15,6 +15,7 @@
     <img  src="https://img.shields.io/badge/Java-151824.svg?style=flat-square&logo=java">
     <img  src="https://img.shields.io/badge/Dart-151824?style=flat-square&logo=Dart">
     <img  src="https://img.shields.io/badge/Python-151824?style=flat-square&logo=Python">
+    <img  src="https://img.shields.io/badge/Next js-151824?style=flat-square&logo=Next js">
     
    
   
