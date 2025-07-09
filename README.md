@@ -23,16 +23,14 @@
     <img src="https://img.shields.io/badge/HTML5-151824?style=flat-square&logo=html5">
     <img  src="https://img.shields.io/badge/CSS3-151824?style=flat-square&logo=css3&logoColor=EF629F">
     <img  src="https://img.shields.io/badge/Bootstrap-151824?style=flat-square&logo=bootstrap">
-    <img  src="https://img.shields.io/badge/Flutter-151824?style=flat-square&logo=Flutter">
     <img  src="https://img.shields.io/badge/Markdown-151824?style=flat-square&logo=markdown&logoColor=44A08D">
 
 
    Framework & Database :
-    <img src="https://img.shields.io/badge/Django-151824.svg?style=flat-square&logo=django&logoColor=614385">
     <img  src="https://img.shields.io/badge/React.js-151824?style=flat-square&logo=react">
-    <img src="https://img.shields.io/badge/React.native-151824?style=flat-square&logo=react">
     <img src="https://img.shields.io/badge/MySQL-151824?style=flat-square&logo=mysql">
-    <img src="https://img.shields.io/badge/SQLite-151824?style=flat-square&logo=sqlite&logoColor=77A1D3">
+    <img  src="https://img.shields.io/badge/Flutter-151824?style=flat-square&logo=Flutter">
+   
     
    
    Softwares :
