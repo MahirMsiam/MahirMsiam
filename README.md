@@ -58,6 +58,7 @@
 | <h2 align="center"><a href="https://github.com/MahirMsiam/niyejan">NiyeJan</a></h2> | <p style="background-color: #f1f1f1;">A ride sharing app using flutter,Dart and using firebase.It's a clone of uber.It was made to enhance skills on flutter and dart concepts</p> |
 | <h2 align="center"><a href="https://github.com/MahirMsiam/MediMate">MediMate</a></h2> | <p style="background-color: #f1f1f1;">An innovative and comprehensive health technology solution designed to address the growing challenges of medication management and remote patient monitoring</p> |
 | <h2 align="center"><a href="https://github.com/MahirMsiam/Amar-Khata">Amar Khata</a></h2> | <p style="background-color: #f1f1f1;"> A modern, mobile-friendly Progressive Web App (PWA) for personal and vehicle-based expense and income tracking</p> |
+| <h2 align="center"><a href="https://github.com/MahirMsiam/Scheduling">Scheduling</a></h2> | <p style="background-color: #f1f1f1;"> A scheduling app to collect Schedules and filter out available peers on specific time</p> |
 
 
 
